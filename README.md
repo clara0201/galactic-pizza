@@ -9,7 +9,6 @@ _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 🔹 **Platforms:** Windows
 🔹 **Current Status:** ✅ Completed  
 
-
 ---
 
 ## 🔧 **Installation & Setup**  
@@ -20,7 +19,7 @@ _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 2. **Open in Unity** (Recommended version: `6000.0.28f1`)  
 3. **Press Play & Enjoy!**  
 
-💡 _Alternatively, download the **Galactic Pizza Build** folder and execute the application from it to play on Windows._  
+💡 _Alternatively, download the **Galactic Pizza Build** folder and execute the application to play on Windows._  
 
 ---
 
