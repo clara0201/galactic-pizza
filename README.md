@@ -6,8 +6,8 @@ _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 🕹️ **Galactic Pizza** is an endless scroller built in **Unity** using **C#**. It's a short solo project, I hope you enjoy it!  
 
 🔹 **Tech Stack:** Unity | C#   
-🔹 **Platforms:** Windows
-🔹 **Current Status:** ✅ Completed  
+🔹 **Platforms:** Windows   
+🔹 **Current Status:** ✅ Completed 
 
 ---
 
