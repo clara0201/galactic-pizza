@@ -2,7 +2,7 @@
 _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 
 
-## 🚀 **About the Project**  
+## 📖 **About the Project**  
 🕹️ **Galactic Pizza** is an endless scroller built in **Unity** using **C#**. It's a short solo project, I hope you enjoy it!  
 
 🔹 **Tech Stack:** Unity | C#   
@@ -25,9 +25,14 @@ _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 
 ## 🎮 **Controls**  
 🕹️ **Keyboard:**  
-- `AD / Arrow keys` - Move  
-- `ESC` - Exit to menu  
+🔹 `AD / Arrow keys` - Move  
+🔹 `ESC` - Exit to menu
 
+---
+
+## 🚀 **How to Play Directly**  
+🔹 **Option 1:** Download the **Build Gorgon's Dungeon** folder and run the executable file to play on Windows.  
+🔹 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/71d6a8d4-faf3-4919-996c-d084aa2e16e1/galactic-pizza)  
 
 ---
 
