@@ -30,7 +30,7 @@ _Deliver pizza to hungry aliens and avoid crashing into any asteroids!_
 
 ## 🚀 **How to Play Directly**  
 🔹 **Option 1:** Download the **Build Gorgon's Dungeon** folder and run the executable file to play on Windows.  
-🔹 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/71d6a8d4-faf3-4919-996c-d084aa2e16e1/galactic-pizza)  
+🔹 **Option 2:** Play online via Unity Play: [Click here to play](https://play.unity.com/en/games/71d6a8d4-faf3-4919-996c-d084aa2e16e1/galactic-pizza)  (some particles are not rendering correctly on the WebGL build)
 
 ---
 
